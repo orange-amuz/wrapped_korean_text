@@ -36,7 +36,7 @@ class _WrappedKoreanTextState extends State<WrappedKoreanText> {
     r'\u0085',
     r'\u2028',
     r'\u2029',
-    // r'\n'
+    r'\n'
   ];
 
   /// Indexes of special characters in original text
